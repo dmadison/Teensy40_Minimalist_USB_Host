@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Teensy40_Min_USB_Host")(type "KiCad")(uri "${KIPRJMOD}/Teensy40_Min_USB_Host.pretty")(options "")(descr "Teensy 4.0 Minimalist USB Host footprints"))
+)
