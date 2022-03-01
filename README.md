@@ -6,6 +6,8 @@ This repository contains the KiCAD 6 board files for the [Teensy 4.0 minimalist 
 
 The Teensy board needs to be soldered to 0.1" male headers. It can then be mated to the shield with 0.1" female headers and pogo pins, or soldered directly using enamel wire to connect to the data pads on the underside of the board.
 
+For pogo pins, see the [PJRC Teensy 4.0 breakout board](https://www.pjrc.com/breakout-board-for-teensy-4-0/) page for reference. For my own boards I used 12 mm pogo pins purchased from RTLECS on AliExpress.
+
 Generated gerbers and bill of materials can be found on the [releases](../../releases/latest) page.
 
 ## License
