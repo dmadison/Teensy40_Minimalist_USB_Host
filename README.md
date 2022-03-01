@@ -1,6 +1,6 @@
 # Teensy 4.0 Minimalist USB Host Shield
 
-![Teensy 4.0 Minimalist USB Host Shield](images/Teensy4_USB_Host_Variety.jpg)
+![Variations of the Teensy 4.0 Minimalist USB Host Shield, v1.0.0](images/Teensy4_USB_Host_Variety.jpg)
 
 This repository contains the KiCAD 6 board files for the [Teensy 4.0 minimalist USB host shield](https://www.partsnotincluded.com/teensy-4-0-minimalist-usb-host-shield). The shield is designed to connect to the underside of the Teensy 4.0 board and provide a safe and stable USB-A host port in a small and lightweight size.
 
