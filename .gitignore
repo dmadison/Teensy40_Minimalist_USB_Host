@@ -27,3 +27,9 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+#######################################
+# Teensy 4.0 Minimalist USB Host Shield
+
+# Gerbers
+gerbers/*
