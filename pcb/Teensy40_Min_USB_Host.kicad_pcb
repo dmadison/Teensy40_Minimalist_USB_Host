@@ -2450,35 +2450,6 @@
       ) (layer "F.SilkS") (width 0) (fill solid) (tstamp fa9f680e-ec53-43f9-a044-959bb0b86624))
   )
 
-  (footprint "Teensy40_Min_USB_Host:MountingHole_3.2mm" (layer "F.Cu")
-    (tedit 61E30EB0) (tstamp 8c126204-4869-41d6-a267-c8de57a431ca)
-    (at 149.86 125.73)
-    (descr "Mounting Hole 3.2mm, no annular, M3")
-    (tags "mounting hole 3.2mm no annular m3")
-    (property "Description" "~")
-    (property "DigiKey Product Number" "~")
-    (property "Manufacturer" "~")
-    (property "Manufacturer Product Number" "~")
-    (property "Sheetfile" "Teensy40_Min_USB_Host.kicad_sch")
-    (property "Sheetname" "")
-    (property "exclude_from_bom" "")
-    (path "/d6d7e84f-f030-406a-bc13-5b00e8372e3d")
-    (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "H2" (at 0 -2.54) (layer "F.SilkS") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 21c76d76-82f2-4004-9f9f-1523c86e986f)
-    )
-    (fp_text value "MountingHole" (at 0 2.54) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 2e32f3d4-ea5e-4b26-b1e0-b9d0ecf2b9ba)
-    )
-    (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b38b303f-85e4-499f-b225-d8b57d3a595f)
-    )
-    (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask) (tstamp 1b014ebe-82a5-4485-9a1e-fd4384195f8d))
-  )
-
   (footprint "Package_TO_SOT_SMD:SOT-23-6" (layer "F.Cu")
     (tedit 5F6F9B37) (tstamp 97c50482-6541-4532-8eba-6810ebff5ba3)
     (at 148.59 114.9096 -90)
@@ -5377,6 +5348,7 @@
       ) (layer "B.SilkS") (width 0) (fill solid) (tstamp 631733df-2fff-44e0-ba2a-a1d009aa53d8))
   )
 
+  (gr_circle locked (center 149.86 125.73) (end 151.46 125.73) (layer "Dwgs.User") (width 0.05) (fill none) (tstamp 89821036-d4d3-465e-b0f0-e48da14643a4))
   (gr_arc (start 148.26 126.365) (mid 148.074013 126.814013) (end 147.625 127) (layer "Edge.Cuts") (width 0.05) (tstamp 0910fc47-d689-4f2c-b98a-e4d6893e0439))
   (gr_line (start 158.006051 124.568949) (end 158.223949 124.351051) (layer "Edge.Cuts") (width 0.05) (tstamp 268f5414-0857-446e-aa2a-7444983f16f0))
   (gr_arc (start 141.713949 124.568949) (mid 141.163346 123.744914) (end 140.97 122.772898) (layer "Edge.Cuts") (width 0.05) (tstamp 2d4d09eb-b883-4f0a-aa0e-7ca9abafac91))
