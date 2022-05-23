@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Teensy 4 USB Host.kicad_pro",
+    "filename": "Teensy40_Min_USB_Host.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -404,6 +404,7 @@
           "/VIN",
           "GND",
           "Net-(F1-Pad2)",
+          "VBUS",
           "VCC"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
